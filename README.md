@@ -1,6 +1,8 @@
 # Doggy Chat Bot
-
+![image](https://github.com/xndrgit/dog-ai-openchat-ollama/assets/115892862/bd0b0c1f-7b65-4762-ba4e-e85b134fd4a3)
+<br>
 Welcome to Doggy Chat Bot, an open-source web app where you can converse with a virtual dog using your local OLLAMA AI.
+
 
 ## A sneak peek into what we have here🙈 :
 ![Doggy Chat Bot Preview](https://github.com/xndrgit/dog-ai-openchat-ollama/assets/115892862/fd194dc7-0306-4a6b-88d7-3e553da2831b)
